@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.rayan.ng"
+    namespace = "com.v2ray.ang"
     compileSdk = 37
 
     defaultConfig {
